@@ -7,7 +7,7 @@ package list_test
 import (
 	"fmt"
 
-	"generic-list/list"
+	"github.com/mdwhatcott/generic-list/list"
 )
 
 func Example() {
