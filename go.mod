@@ -1,3 +1,3 @@
-module github.com/mdwhatcott/generic-list
+module github.com/mdw-go/generic-list
 
 go 1.19
